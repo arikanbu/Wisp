@@ -1,2 +1,10 @@
-.vscode
-.luarc.json
+*
+!components/ball.lua
+!system/engine.lua
+!system/require_components.lua
+!system/root.lua
+!system/wisp.lua
+!system/app.lua
+!LICENCE
+!main.lua
+!README.md
