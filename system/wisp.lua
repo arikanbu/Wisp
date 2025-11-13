@@ -50,6 +50,7 @@ end
 -- Functions that Modify or Notify Root
 ------------------------------------------------------------
 function Wisp:assign_layer(layer)
+    -- Layer of appearance
     self.layer = layer
     self.root.layering_changed = true
 end
