@@ -1,5 +1,7 @@
 *
+!components/
 !components/ball.lua
+!system/
 !system/engine.lua
 !system/require_components.lua
 !system/root.lua
@@ -8,3 +10,4 @@
 !LICENCE
 !main.lua
 !README.md
+
